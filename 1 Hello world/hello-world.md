@@ -32,8 +32,8 @@
     </head>
     <body>
         <script>
-			console.log("Hello world!");
-		</script>
+            console.log("Hello world!");
+        </script>
     </body>
 </html>
 ```
@@ -42,7 +42,7 @@
 
 Встроенная функция `console.log()` выводит заданное сообщение в консоль браузера. Чтобы проверить работу программы, откроем файл в браузере, просто открыв его двойным щелчком. Откроем консоль (клавиша F12 в большинстве браузеров) и убедимся, что там выведено сообщение, заданное в программе:
 
-![console-log](assets\console-hello.png)
+![console-log](assets/console-hello.png)
 
 
 
@@ -58,7 +58,7 @@
     </head>
     <body>
         <script src="app.js">
-		</script>
+        </script>
     </body>
 </html>
 ```
